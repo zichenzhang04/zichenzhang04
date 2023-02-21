@@ -1,4 +1,4 @@
-### Hi, I'm Zichen! 👋
+# Hi, I'm Zichen! 👋
 
 I am a CS major at the University of Michigan.
 
