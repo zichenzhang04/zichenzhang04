@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zichenzhang04" alt="zichenzhang04" /></a> </p>
 
+- Learn more about me at my [website](https://zichenzhang04.github.io/)
+
 - 🔭 I’m currently working on **data visualization**
 
 - 🌱 I’m currently learning **UCB CS285, UCL Intro to RL and Stanford CS224N**
