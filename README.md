@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zichenzhang04" alt="zichenzhang04" /></a> </p>
 
-- Learn more about me at my [website](https://zichenzhang04.github.io/)
+- Learn more about me at my [website](https://www.zichenz.me/)
 
 - 🔭 I’m currently working on **data visualization**
 
