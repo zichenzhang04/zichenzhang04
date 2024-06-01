@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **UCB CS285, UCL Intro to RL and Stanford CS224N**
 
-- 👯 I’m collaborating on [Collage](https://github.com/collage-us/collage)
+- 👯 I’m collaborating on [Collage](https://github.com/collage-us)
 
 - 📫 How to reach me **zhangzzc@umich.edu**
 
