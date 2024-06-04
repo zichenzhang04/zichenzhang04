@@ -5,11 +5,11 @@
 
 - Learn more about me at my [website](https://www.zichenz.me/)
 
-- 🔭 I’m currently working on **data visualization**
+- 🔭 For research, I’m currently working on developing **algorithms** that sort genomic datasets efficiently
 
-- 🌱 I’m currently learning **UCB CS285, UCL Intro to RL and Stanford CS224N**
+- 👯 In my free time, I work in [Collage](https://github.com/collage-us), an Education startup founded by U-M students
 
-- 👯 I’m collaborating on [Collage](https://github.com/collage-us)
+- 🌱 I’m learning **UCB CS285, UCL Intro to RL and Stanford CS224N**
 
 - 📫 How to reach me **zhangzzc@umich.edu**
 
