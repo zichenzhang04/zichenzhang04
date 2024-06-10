@@ -9,8 +9,6 @@
 
 - 👯 In my free time, I work in [Collage](https://github.com/collage-us), an Education startup founded by U-M students
 
-- 🌱 I’m learning **UCB CS285, UCL Intro to RL and Stanford CS224N**
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zichenzhang04&show_icons=true&locale=en&layout=compact" alt="zichenzhang04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zichenzhang04&show_icons=true&locale=en" alt="zichenzhang04" /></p>
