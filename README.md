@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zichenzhang04&label=Profile%20views&color=0e75b6&style=flat" alt="zichenzhang04" /> </p>
 
-- 👤 Learn more about me at my [website](https://www.zichenz.me/)
+- 👤 Learn more about me at my personal website [zichenz.me](https://www.zichenz.me/)
 
 - 🔭 For research, I’m currently working on developing [algorithms](https://github.com/zichenzhang04/chromosome-sorting) that sort genomic datasets efficiently
 
