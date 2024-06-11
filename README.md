@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zichen “Charlie" Zhang</h1>
-<h3 align="center">I like to learn and build.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zichenzhang04&label=Profile%20views&color=0e75b6&style=flat" alt="zichenzhang04" /> </p>
 
