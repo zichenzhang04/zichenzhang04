@@ -8,6 +8,6 @@
 
 - 💻 For side projects, I'm now working on [Collage](https://collageapp.info/), a startup founded by U-M students that aims to transform higher education by developing personalized course planning and AI academic advising. Please visit our promotional website to join the waitlist.
 
-<p><img align="left" src="https://github-readme-stats-git-master-zichenzhang04s-projects.vercel.app/api/top-langs?username=zichenzhang04&show_icons=true&locale=en&layout=compact&langs_count=10&hide_progress=true" alt="zichenzhang04" /></p>
+<p><img align="left" src="https://github-readme-stats-git-master-zichenzhang04s-projects.vercel.app/api/top-langs?username=zichenzhang04&show_icons=true&locale=en&layout=compact&langs_count=10&hide_progress=false" alt="zichenzhang04" /></p>
 
-<p><img align="right" src="https://github-readme-stats-git-master-zichenzhang04s-projects.vercel.app/api?username=zichenzhang04&show_icons=true&locale=en&include_all_commits=true&rank_icon=github" alt="zichenzhang04" /></p>
+<p><img align="right" src="https://github-readme-stats-git-master-zichenzhang04s-projects.vercel.app/api?username=zichenzhang04&show_icons=true&locale=en&include_all_commits=true&rank_icon=github&show=reviews" alt="zichenzhang04" /></p>
