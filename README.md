@@ -10,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats-git-master-zichenzhang04s-projects.vercel.app/api/top-langs?username=zichenzhang04&show_icons=true&locale=en&layout=compact" alt="zichenzhang04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-master-zichenzhang04s-projects.vercel.app/api?username=zichenzhang04&show_icons=true&locale=en" alt="zichenzhang04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-master-zichenzhang04s-projects.vercel.app/api?username=zichenzhang04&show_icons=true&locale=en&include_all_commits=true" alt="zichenzhang04" /></p>
