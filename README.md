@@ -4,7 +4,7 @@
 
 - 👤 Learn more about me at my personal website [zichenz.me](https://www.zichenz.me/).
 
-- 🔭 For research, I’m currently working on developing efficient data processing algorithms: [Complex Sorter](https://github.com/minjikimlab/complex-sorter), a Python Toolkit that sorts gigantic genomic datasets (ChIA-Drop and Hi-C) in different schemes.
+- 🔭 For research, I worked on developing efficient data processing algorithms: [MIA-Sort](https://github.com/minjikimlab/complex-sorter), a Python Toolkit that sorts gigantic genomic datasets (ChIA-Drop, Hi-C, etc) in different schemes.
 
 - 💻 For side projects, I'm now working on [Collage](https://collageapp.info/), a startup founded by U-M students that aims to transform higher education by developing personalized course planning and AI academic advising. Please visit our promotional website to join the waitlist.
 
