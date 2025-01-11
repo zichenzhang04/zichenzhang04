@@ -4,7 +4,7 @@
 
 - 👤 Learn more about me at my personal website [zichenz.me](https://www.zichenz.me/).
 
-- 💻 For side projects, I'm now working on [Collage](https://mycollage.us/), an EdTech startup that aims to transform higher education by developing personalized course planning and AI academic advising. Please visit our [LinkedIn](https://www.linkedin.com/company/collageus/) for more info.
+- 💻 I'm now working on [Collage](https://mycollage.us/), an EdTech startup that aims to transform higher education by developing personalized course planning and AI academic advising. Please visit our [LinkedIn](https://www.linkedin.com/company/collageus/) for more info.
 
 <p><img align="left" src="https://github-readme-stats-git-master-zichenzhang04s-projects.vercel.app/api/top-langs?username=zichenzhang04&show_icons=true&locale=en&layout=compact&langs_count=10&hide_progress=false" alt="zichenzhang04" /></p>
 
