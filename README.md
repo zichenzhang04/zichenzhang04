@@ -4,7 +4,7 @@
 
 - 🌍 Learn more about me at my personal website [zichenz.me](https://www.zichenz.me/).
 
-- 💻 I'm now working on [Collage](https://mycollage.us/), an EdTech startup that aims to transform higher education by developing personalized course planning and AI academic advising. Please visit our [LinkedIn](https://www.linkedin.com/company/collageus/) for more info.
+- 💻 I'm working on [Collage](https://mycollage.us/), the Pinterest for Education. Accessible via your educational Google account, Collage is an AI-powered educational discovery engine that personalizes academic advising and scheduling and connects students with their classes, advisors, and peers. The platform features a personalized, Pinterest-like course catalog tailored to individual academic interests and career goals, an AI advisor to assist with scheduling decisions and a social networking system for sharing schedules and connecting with peers.
 
 <p><img align="left" src="https://github-readme-stats-git-master-zichenzhang04s-projects.vercel.app/api/top-langs?username=zichenzhang04&show_icons=true&locale=en&layout=compact&langs_count=10&hide_progress=false" alt="zichenzhang04" /></p>
 
