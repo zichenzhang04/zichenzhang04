@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Zichen (Charlie)
+# Hey there 👋, I'm Zichen (Charlie)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zichenzhang04&label=Profile%20views&color=0e75b6&style=flat" alt="zichenzhang04" /> </p>
 
