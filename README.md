@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zichenzhang04&label=Profile%20views&color=0e75b6&style=flat" alt="zichenzhang04" /> </p>
 
-## 🌍 Learn about me at [zichenz.me](https://www.zichenz.me/)
+### 🌍 Learn about me at [zichenz.me](https://www.zichenz.me/)
 
-## 📊 My GitHub Stats
+### 📊 My GitHub Stats
 
 <table>
   <tr>
