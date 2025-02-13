@@ -4,7 +4,7 @@
 
 - 🌍 Learn more about me at my website [zichenz.me](https://www.zichenz.me/).
 
-- 💻 I'm working on building [Collage](https://mycollage.us/), an AI-powered educational discovery engine that personalizes academic advising and scheduling and connects students with their classes, advisors, and peers.
+[//]: # (I'm working on building [Collage](https://mycollage.us/), an AI-powered educational discovery engine that personalizes academic advising and scheduling and connects students with their classes, advisors, and peers.)
 
 <p><img align="left" src="https://github-readme-stats-git-master-zichenzhang04s-projects.vercel.app/api/top-langs?username=zichenzhang04&show_icons=true&locale=en&layout=compact&langs_count=10&hide_progress=false" alt="zichenzhang04" /></p>
 
