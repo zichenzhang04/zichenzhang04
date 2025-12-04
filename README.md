@@ -4,6 +4,7 @@
 
 ### 🏠 Learn About Me at [zichenz.me](https://www.zichenz.me/)
 
+<!--
 ### 📊 My GitHub Stats
 
 <table>
@@ -16,3 +17,4 @@
     </td>
   </tr>
 </table>
+-->
